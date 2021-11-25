@@ -1,5 +1,6 @@
-# <h1 align = "center"> PYTHON_COSTUMER_BASE </h1>
-<p align = "center"> recreating my first CRUD in python, but now more professional </p>
+# <h1 align = "center">:snake: PYTHON_COSTUMER_BASE :snake:</h1>
+<p align = "center"> recreating my first CRUD in python, but now more professional </p> 
+
 
 ## What technology and methodology were used?
 At first, and I think the most obvious, I used python language to construct all the system. Now, going beyond the obviously I would like to demonstrate the <strong>Orientation 
@@ -22,6 +23,8 @@ this validation the same information is donated to other inter method, the age g
 age in the construction of the object. An important point is, if the attribute be invocated in other moment the age calc is made again, so the age will not be the same of the 
 construction, for this this attribute receive a getter method, the first to protect and avoid being instantiated out of the class; all time this getter is invocated, the getter
 use the intern method to calculate based in the birth date, which is static.
+
+<h2 align = "center"> :construction_worker: :construction: CAUTION! :warning: Area in construction :construction: :construction_worker:</h2>
 
 
 ## About class Menu
