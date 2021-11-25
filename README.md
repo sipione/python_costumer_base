@@ -1,7 +1,7 @@
 # <h1 align = "center"> PYTHON_COSTUMER_BASE </h1>
 <p align = "center"> recreating my first CRUD in python, but now more professional </p>
 
-## What thecnology and methodology was used
+## What technology and methodology were used?
 At first, and I think the most obvious, I used python language to construct all the system. Now, going beyond the obviously I would like to demonstrate the <strong>Orientation 
 Object (OO) system</strong>, was created in the base two classes which one is instantiated to create Menu object, and the other one is the Client which one is instantiated to 
 create the object Client with name and birth date, the age is calculated automated by the class. In addition, the project was made thinking by the <strong>Test Drive 
